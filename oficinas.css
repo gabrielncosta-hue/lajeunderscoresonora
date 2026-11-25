@@ -218,7 +218,7 @@
 }
 
 .filtro{
-    border: 2px, var(--tinta);
+    border: 2px solid var(--tinta);
     padding-top: 8px;
     padding-bottom: 8px;
     padding-right: 18px;
