@@ -398,3 +398,15 @@
     height: 20px;
     accent-color: var(--caixa-dagua);
 }
+@media (max-width: 800px){
+    
+    .oficina, .rodape-colunas{
+        align-items: stretch;
+    }
+    .titulo-pagina{
+        font-size: 96px;
+    }
+    .oficina .foto, .oficina-detalhes{
+        
+    }
+}

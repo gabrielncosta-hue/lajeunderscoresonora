@@ -290,3 +290,16 @@
     margin-top: 10px;
     font-weight: 700;
 }
+
+@media (max-width: 800px){
+    
+    .oficina, .rodape-colunas{
+        align-items: stretch;
+    }
+    .titulo-pagina{
+        font-size: 96px;
+    }
+    .oficina .foto, .oficina-detalhes{
+        
+    }
+}
